@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "author": "Aghilas",
+      "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta maiores molestias eius animi ratione debitis facilis dolorum blanditiis magnam saepe. Quae natus, exercitationem sed molestias libero nostrum laudantium, officia doloremque reiciendis quas, eaque numquam! Quos dicta repellat excepturi dolore est quas nesciunt odit, quam neque, earum necessitatibus nisi natus autem minima unde laudantium, et consectetur ducimus soluta! Facere officia accusantium esse architecto deleniti dicta commodi nam obcaecati, aperiam quasi quia facilis, ad reiciendis harum molestiae dolorem amet minima mollitia laboriosam beatae asperiores adipisci! Doloremque eveniet ipsum voluptates neque magni eum assumenda nihil aliquid a sed, nulla mollitia ipsam dolor debitis pariatur quidem numquam. Dolores nihil culpa amet error porro! Officiis sed quae, inventore provident nulla est maxime alias vitae placeat molestias nobis repellat dicta quam eum doloremque id illum et corrupti quaerat? Cumque, provident. Neque modi eum et voluptatum? Sunt eos, recusandae commodi veritatis saepe sed perferendis vitae corrupti dolorum a minima at architecto modi esse, ipsum eius. Voluptatibus neque consectetur, temporibus asperiores fugiat in quod sint officiis aperiam illo excepturi nam molestiae, alias quia! Cum harum recusandae, atque ullam dolores voluptatem. Incidunt pariatur, facilis minima recusandae laborum nesciunt natus quae eum animi adipisci quia dolore nam officia itaque debitis?",
+      "date": 16215330288692,
+      "id": "1"
+    },
+    {
+      "author": "Meziane",
+      "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta maiores molestias eius animi ratione debitis facilis dolorum blanditiis magnam saepe. Quae natus, exercitationem sed molestias libero nostrum laudantium, officia doloremque reiciendis quas, eaque numquam! Quos dicta repellat excepturi dolore est quas nesciunt odit, quam neque, earum necessitatibus nisi natus autem minima unde laudantium, et consectetur ducimus soluta! Facere officia accusantium esse architecto deleniti dicta commodi nam obcaecati, aperiam quasi quia facilis, ad reiciendis harum molestiae dolorem amet minima mollitia laboriosam beatae asperiores adipisci! Doloremque eveniet ipsum voluptates neque magni eum assumenda nihil aliquid a sed, nulla mollitia ipsam dolor debitis pariatur quidem numquam. Dolores nihil culpa amet error porro! Officiis sed quae, inventore provident nulla est maxime alias vitae placeat molestias nobis repellat dicta quam eum doloremque id illum et corrupti quaerat? Cumque, provident. Neque modi eum et voluptatum? Sunt eos, recusandae commodi veritatis saepe sed perferendis vitae corrupti dolorum a minima at architecto",
+      "date": 16215845254548,
+      "id": "2"
+    },
+    {
+      "author": "Mounir",
+      "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta maiores molestias eius animi ratione debitis facilis dolorum blanditiis magnam saepe. Quae natus, exercitationem sed molestias libero nostrum laudantium, officia doloremque reiciendis quas, eaque numquam! Quos dicta repellat excepturi dolore est quas nesciunt odit, quam neque, earum necessitatibus nisi natus autem minima unde laudantium, et consectetur ducimus soluta! Facere officia accusantium esse architecto deleniti dicta commodi nam obcaecati, aperiam quasi quia facilis, ad reiciendis harum molestiae dolorem amet minima mollitia laboriosam beatae asperiores adipisci! Doloremque eveniet ipsum voluptates neque magni eum assumenda nihil aliquid a sed, nulla mollitia ipsam dolor debitis pariatur quidem numquam. Dolores nihil culpa amet error porro! Officiis sed quae, inventore provident nulla est maxime alias vitae placeat molestias nobis repellat dicta quam eum doloremque id illum et corrupti quaerat? Cumque, provident. Neque modi eum et voluptatum? Sunt eos, recusandae commodi veritatis saepe sed perferendis vitae corrupti dolorum a minima at architecto Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt quam quisquam sit, nostrum beatae, error sapiente, quaerat tempora distinctio saepe optio ab aut eos modi consequuntur aliquam? Officiis rerum laborum autem id necessitatibus laboriosam tempora minus quaerat, dolor quibusdam? Doloribus et fuga aliquid excepturi, vitae debitis officiis quaerat fugiat placeat!",
+      "date": 19015845254548,
+      "id": "3"
+    },
+    {
+      "id": "ec82",
+      "author": "Lisa",
+      "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta maiores molestias eius animi ratione debitis facilis dolorum blanditiis magnam saepe. Quae natus, exercitationem sed molestias libero nostrum laudantium, officia doloremque reiciendis quas, eaque numquam! Quos dicta repellat excepturi dolore est quas nesciunt odit, quam neque, earum necessitatibus nisi natus autem minima unde laudantium, et consectetur ducimus soluta! Facere officia accusantium esse architecto deleniti dicta commodi nam obcaecati, aperiam quasi quia facilis, ad reiciendis harum molestiae dolorem amet minima mollitia laboriosam beatae asperiores adipisci! Doloremque eveniet ipsum voluptates neque magni eum assumenda nihil aliquid a sed, nulla mollitia ipsam dolor debitis pariatur quidem numquam. Dolores nihil culpa amet error porro! Officiis sed quae, inventore provident nulla est maxime alias vitae placeat molestias nobis repellat dicta qua",
+      "date": 1705586884868
+    }
+  ]
+}
