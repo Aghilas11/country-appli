@@ -17,6 +17,12 @@ const Blog = () => {
   };
   useEffect(() => getData(), []);
 
+  const copmlete = () => {
+    if (author === "") {
+      alert("faut absolument mettre un nom");
+    }
+  };
+
   const handleSubmit = (e) => {
     e.preventDefault();
     if (content.length < 140) {
@@ -27,6 +33,7 @@ const Blog = () => {
         content,
         date: Date.now(),
       });
+      copmlete();
       setError(false);
       setAuthor("");
       setContent("");
